@@ -1,0 +1,7 @@
+{
+  "name": "ionic-md-transition",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
